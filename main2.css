@@ -1,0 +1,11 @@
+/* Agrega aqui tu CSS */
+div{
+	border: 2px solid orange;
+	width: 200px;
+	height: 280px;
+	padding: 2px;
+	display:block;
+}
+.uno{
+	margin: 10px;
+}
